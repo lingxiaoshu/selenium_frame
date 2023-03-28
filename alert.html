@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <input type="button" value="alert弹出框" onclick="alert('我是alert警告框')">
+    <input type="button" value="confirm确认框" onclick="confirm('我是confirm确认框')">
+    <input type="button" value="prompt" onclick="myFunction()">
+	<p id="demo"></p>
+	<script>
+	function myFunction() {
+	  var txt;
+	  var person = prompt("请输入您的名字：", "哈利波特");
+	  if (person == null || person == "") {
+		txt = "用户取消输入";
+	  } else {
+		txt = "你好，" + person + "！今天过得好吗？";
+	  }
+	  document.getElementById("demo").innerHTML = txt;
+	}
+</script>
+
+
+</body>
+</html>
