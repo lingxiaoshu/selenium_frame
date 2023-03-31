@@ -4,7 +4,7 @@
 # @Project: selenium_learning
 # @Software: PyCharm
 # @File: selenium_study.py
-# @Author: chenhuaishu
+# @Author: lxs
 # @Time: 2022/10/26 20:32
 import time
 

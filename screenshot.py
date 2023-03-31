@@ -4,7 +4,7 @@
 # @Project: selenium_learning
 # @Software: PyCharm
 # @File: screenshot.py
-# @Author: chenhuaishu
+# @Author: lxs
 # @Time: 2023/3/4 16:34
 import time
 

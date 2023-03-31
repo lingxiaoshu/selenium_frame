@@ -4,13 +4,13 @@
 # @Project: selenium_learning
 # @Software: PyCharm
 # @File: KEYBOAD_study.py
-# @Author: chenhuaishu
+# @Author: lxs
 # @Time: 2023/3/4 17:07
 import time
 
 from selenium import webdriver
-from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 
 # 创建driver
 options = webdriver.ChromeOptions()

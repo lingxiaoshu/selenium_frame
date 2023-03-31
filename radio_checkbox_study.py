@@ -4,7 +4,7 @@
 # @Project: selenium_learning
 # @Software: PyCharm
 # @File: radio_checkbox_study.py
-# @Author: chenhuaishu
+# @Author: lxs
 # @Time: 2023/3/4 16:44
 import time
 

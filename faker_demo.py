@@ -4,7 +4,7 @@
 # @Project: selenium_learning
 # @Software: PyCharm
 # @File: faker_demo.py
-# @Author: chenhuaishu
+# @Author: lxs
 # @Time: 2022/10/30 14:29
 from faker import Faker
 

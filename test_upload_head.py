@@ -4,7 +4,7 @@
 # @Project: selenium_learning
 # @Software: PyCharm
 # @File: test_upload_head.py
-# @Author: chenhuaishu
+# @Author: lxs
 # @Time: 2023/3/3 19:57
 from selenium import webdriver
 from selenium_el import login, upload_head, upload_head1
